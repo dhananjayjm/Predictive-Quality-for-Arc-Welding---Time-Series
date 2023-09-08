@@ -263,3 +263,8 @@ The code implements a k-Nearest Neighbors (k-NN) classification algorithm using 
 | `val_accuracy`, `test_accuracy`           | Calculates accuracy of predictions using the best estimator                                                      |
 
 ---
+
+## Leistungsbescheinigung
+
+![Leistungsbescheinigung](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Leistungsbescheinigung.png)
+
