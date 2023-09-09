@@ -2,7 +2,7 @@
 ## Seminar "Selected Topics in Data Science"
 
 ## 1. ABSTRACT
-Gas Metal Arc Welding (GMAW) is a popular welding technique in the industry, also known as metal inert gas (MIG) welding. The quality assessment of welding samples by non-destructive techniques has several restrictions. Two prominent parameters in the welding process are current and voltage. Sensors capture these parameters in the form of a signal, which can be further digitized and analyzed with the supervised machine learning algorithm for evaluation of welding quality. This approach can be recommended in real-time welding quality assessment.
+Gas Metal Arc Welding (GMAW) is a popular welding technique in the industry, also known as metal inert gas (MIG) welding. The quality assessment of welding samples by non-destructive techniques has several restrictions. Two prominent parameters in the welding process are current and voltage. Sensors capture these parameters in the form of a signal, which can be further digitized and analyzed with the supervised machine learning algorithm for the evaluation of welding quality. This approach can be recommended in real-time welding quality assessment.
 
 ## 2. KEYWORDS
 GMAW, MIG, Logistic Regression, Random Forest, Decision Tree, k-nearest neighbors, Supervised machine learning algorithm, scikit-learn, Hyperparameter tuning
