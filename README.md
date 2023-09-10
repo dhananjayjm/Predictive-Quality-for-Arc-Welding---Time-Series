@@ -13,12 +13,6 @@ All algorithms show the slight improvement in the Test accuracy. The validation 
 
 In future work, I am also interested to explore any novel data-set related to GMAW with some additional electrical and mechanical parameters of welding process for better predictions of welding quality.
 
-# 4. Implementation of Machine Learning Algorithms
-
-## 4.1 Random Forest Classifier
-
-The code implements a Random Forest Classifier using scikit-learn. It includes model training, validation, testing, evaluation, and hyperparameter tuning.
-
 ## Final Project Report
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%202.png)
@@ -27,6 +21,10 @@ The code implements a Random Forest Classifier using scikit-learn. It includes m
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%205.png)
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%206.png)
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%207.png)
+
+# 4. Implementation of Machine Learning Algorithms
+## 4.1 Random Forest Classifier
+The code implements a Random Forest Classifier using scikit-learn. It includes model training, validation, testing, evaluation, and hyperparameter tuning.
 
 ### Dependencies
 
