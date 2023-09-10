@@ -19,6 +19,15 @@ In future work, I am also interested to explore any novel data-set related to GM
 
 The code implements a Random Forest Classifier using scikit-learn. It includes model training, validation, testing, evaluation, and hyperparameter tuning.
 
+## Final Project Report
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%202.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%203.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%204.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%205.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%206.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%207.png)
+
 ### Dependencies
 
 | Component   | Description                 |
@@ -263,14 +272,6 @@ The code implements a k-Nearest Neighbors (k-NN) classification algorithm using 
 | `val_accuracy`, `test_accuracy`           | Calculates accuracy of predictions using the best estimator                                                      |
 
 ---
-## Final Project Report
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%202.png)
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%203.png)
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%204.png)
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%205.png)
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%206.png)
-![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%207.png)
 
 ## Leistungsbescheinigung
 
