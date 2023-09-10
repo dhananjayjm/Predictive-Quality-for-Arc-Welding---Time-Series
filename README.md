@@ -264,8 +264,8 @@ The code implements a k-Nearest Neighbors (k-NN) classification algorithm using 
 
 ---
 ## Final Project Report
-[](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
-[](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%202.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
+![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%202.png)
 
 ## Leistungsbescheinigung
 
