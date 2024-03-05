@@ -12,6 +12,10 @@ In this paper, I have implemented the four supervised machine learning algorithm
 All algorithms show the slight improvement in the Test accuracy. The validation accuracy is lower than the test accuracy after hyperparameter tuning. The possible causes would be over-fitting of the training data, a small validation set, data mismatch, and randomness in model evaluation.
 
 In future work, I am also interested to explore any novel data-set related to GMAW with some additional electrical and mechanical parameters of welding process for better predictions of welding quality.
+---
+## Leistungsbescheinigung
+
+![Leistungsbescheinigung](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Leistungsbescheinigung.png)
 
 ## Final Project Report
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
@@ -271,7 +275,5 @@ The code implements a k-Nearest Neighbors (k-NN) classification algorithm using 
 
 ---
 
-## Leistungsbescheinigung
 
-![Leistungsbescheinigung](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Leistungsbescheinigung.png)
 
