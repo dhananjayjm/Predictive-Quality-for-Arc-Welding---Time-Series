@@ -10,7 +10,6 @@ GMAW, MIG, Logistic Regression, Random Forest, Decision Tree, k-nearest neighbor
 ## 3. CONCLUSION AND OUTLOOK
 In this paper, I have implemented the four supervised machine learning algorithms Random Forest, Decision Tree, Logistic Regression, and 𝑘-Nearest Neighbors on sensor data from 32 welding procedures with  different types of error patterns. I observed that the Logistic Regression Algorithm has shown maximum accuracy for testing the new data set with nearly 0.99. I also applied hyper-parameter tuning with the GridSearchCV method for optimizing and verifying the performance of all machine learning algorithms.
 All algorithms show the slight improvement in the Test accuracy. The validation accuracy is lower than the test accuracy after hyperparameter tuning. The possible causes would be over-fitting of the training data, a small validation set, data mismatch, and randomness in model evaluation.
-
 In future work, I am also interested to explore any novel data-set related to GMAW with some additional electrical and mechanical parameters of welding process for better predictions of welding quality.
 ---
 ## Leistungsbescheinigung
