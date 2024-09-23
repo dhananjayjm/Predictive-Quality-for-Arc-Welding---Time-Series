@@ -14,10 +14,6 @@ All algorithms show the slight improvement in the Test accuracy. The validation 
 In future work, I am also interested to explore any novel data-set related to GMAW with some additional electrical and mechanical parameters of welding process for better predictions of welding quality.
 
 ---
-## Leistungsbescheinigung
-
-![Leistungsbescheinigung](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Leistungsbescheinigung.png)
-
 ## Final Project Report
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%201.png)
 ![](https://github.com/dhananjayjm/Predictive-Quality-for-Arc-Welding---Time-Series/blob/main/Page%202.png)
